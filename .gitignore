@@ -1,0 +1,17 @@
+# باسوردات وأسرار - ممنوع رفعها أبدا
+CREDENTIALS*.txt
+*.private.*
+*.secret*
+credentials*
+*.rdp
+*.pass
+
+# ملفات تشغيل السيرفر الحقيقية (بيانات الدخول)
+**/users.local.ini
+**/server.local.cfg
+
+# مخلفات تنصيب
+*.log
+logs/
+*.tmp
+D:/
